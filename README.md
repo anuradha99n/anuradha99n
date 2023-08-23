@@ -1,6 +1,14 @@
+
 - 👋 Hi, I’m Anuradha Nayanajith
 - 👀 I’m interested in BackEnd development and Cloud 
 - 🌱 I’m currently learning Java and SpringBoot
+
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/anuradha99/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=anuradha99n&style=flat-square&color=blue" alt=""/>
 
 ### My stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuradha99n&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
