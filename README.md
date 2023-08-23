@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m Anuradha Nayanajith
 - 👀 I’m interested in BackEnd development and Cloud 
-- 🌱 I’m currently learning Java and SpringBoot
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/anuradha99/">
