@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Anuradha Nayanajith
-- 👀 I’m interested in BackEnd development and Cloud 
+- 👀 I’m interested in DevOps and Cloud 
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/anuradha99/">
